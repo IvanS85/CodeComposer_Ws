@@ -128,15 +128,6 @@ static void Nimu_testRecvRawEth();
 #endif
 
 
-//---------------------------------------------------------------------
-// Main Entry Point
-//---------------------------------------------------------------------
-int main()
-{
- /* Start the BIOS 6 Scheduler */
-    BIOS_start ();
-}
-
 //
 // Main Thread
 //
