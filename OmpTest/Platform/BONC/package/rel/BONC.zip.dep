@@ -1,0 +1,34 @@
+BONC.zip: Platform.xdc
+Platform.xdc:
+BONC.zip: Platform.xs
+Platform.xs:
+BONC.zip: config.bld
+config.bld:
+BONC.zip: package/.vers_b200
+package/.vers_b200:
+BONC.zip: package/.vers_g200
+package/.vers_g200:
+BONC.zip: package/.vers_r200
+package/.vers_r200:
+BONC.zip: package/.xdc-F07
+package/.xdc-F07:
+BONC.zip: package/BONC.ccs
+package/BONC.ccs:
+BONC.zip: package/BONC.class
+package/BONC.class:
+BONC.zip: package/BONC.java
+package/BONC.java:
+BONC.zip: package/BONC.sch
+package/BONC.sch:
+BONC.zip: package/build.cfg
+package/build.cfg:
+BONC.zip: package/package.bld.xml
+package/package.bld.xml:
+BONC.zip: package/package.defs.h
+package/package.defs.h:
+BONC.zip: package/package_BONC.c
+package/package_BONC.c:
+BONC.zip: package.bld
+package.bld:
+BONC.zip: package.xdc
+package.xdc:
