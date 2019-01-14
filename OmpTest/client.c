@@ -41,9 +41,11 @@
 #include <stdio.h>
 #include <strings.h>
 
+#include <xdc/std.h>
+#include <xdc/runtime/System.h>
+
 /* BIOS6 include */
 #include <ti/sysbios/BIOS.h>
-
 
 #include <ti/ndk/inc/netmain.h>
 //#include <ti/transport/ndk/nimu/example/client/src/nimu_cppi_qmss_iface.h>
